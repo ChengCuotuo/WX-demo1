@@ -3,4 +3,9 @@
     <view>num: {{num}}</view>
     <view>boolean: {{isBody}}</view>
     <view>person.name:{{person.name}} -- person.height: {{person.height}}</view>
+    <view data-id="{{title}}">title</view>
+    <view><checkbox></checkbox></view>
+    <view><checkbox checked></checkbox></view>
+    <view><checkbox checked="{{false}}"></checkbox></view>
+    <view><checkbox checked="{{true}}"></checkbox></view>
 </view>

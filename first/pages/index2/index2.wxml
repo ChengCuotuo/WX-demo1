@@ -1,2 +1,5 @@
 <!--pages/index2/index2.wxml-->
-<text>pages/index2/index2.wxml</text>
+<text>你好呀！</text>
+<view>
+    我挺好的。
+</view>  

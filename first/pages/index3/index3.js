@@ -10,8 +10,10 @@ Page({
     isBody:true,
     person:{
       name:"小红",
-      height:150  
-    }
+      height:150,
+      age:24 
+    },
+    title:"这是一个新页面 index3"
   },
 
   /**

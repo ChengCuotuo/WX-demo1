@@ -1,8 +1,8 @@
 {
   "pages": [
-    "pages/index/index",
     "pages/index3/index3",
     "pages/index2/index2",
+    "pages/index/index",
     "pages/logs/logs",
     "icon"
   ],
